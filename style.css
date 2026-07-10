@@ -9,7 +9,7 @@ body {
 }
 header
 {
-    background-color: honeydew;
+    background-color: darkgreen;
 }
 .abtt {
 background-color : honeydew ;
@@ -23,4 +23,32 @@ text-align : right;
 color : black ;
 padding : 40 px 20 px ;
 text-align : left;
+}
+
+.nav-bar
+{
+    padding: 2px;
+}
+.nav-bar ul
+{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    letter-spacing: 1.5px;
+}
+
+.nav-bar ul li a{
+    color: honeydew;
+     text-decoration: none;
+}
+*{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.nav-bar ul li a:hover
+{
+   
+    border-bottom: 4px solid white;
+    padding-bottom: 6px;
 }
