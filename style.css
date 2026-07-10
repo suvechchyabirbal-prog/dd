@@ -1,0 +1,26 @@
+
+body {
+    font-family : Arial , sans - serif ;
+    line-height : 1.6;
+    color :darkgreen;
+    max-width : 900 px ;
+    margin : 0 auto ;
+    padding : 20 px ;
+}
+header
+{
+    background-color: honeydew;
+}
+.abtt {
+background-color : honeydew ;
+color : black ;
+padding : 40 px 20 px ;
+text-align : right;
+}
+
+.abt{
+    background-color : honeydew ;
+color : black ;
+padding : 40 px 20 px ;
+text-align : left;
+}
